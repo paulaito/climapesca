@@ -1,0 +1,1467 @@
+<Layout printResolution="300" name="a" worldFileMap="{e8f22d72-f070-4646-bce2-6a44274cbefb}" units="mm">
+ <Snapper tolerance="5" snapToItems="1" snapToGuides="1" snapToGrid="0"/>
+ <Grid resUnits="mm" offsetY="0" offsetUnits="mm" resolution="10" offsetX="0"/>
+ <PageCollection>
+  <symbol clip_to_extent="1" alpha="1" name="" force_rhr="0" type="fill">
+   <layer class="SimpleFill" locked="0" pass="0" enabled="1">
+    <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+    <prop k="color" v="255,255,255,255"/>
+    <prop k="joinstyle" v="miter"/>
+    <prop k="offset" v="0,0"/>
+    <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+    <prop k="offset_unit" v="MM"/>
+    <prop k="outline_color" v="35,35,35,255"/>
+    <prop k="outline_style" v="no"/>
+    <prop k="outline_width" v="0.26"/>
+    <prop k="outline_width_unit" v="MM"/>
+    <prop k="style" v="solid"/>
+    <data_defined_properties>
+     <Option type="Map">
+      <Option name="name" value="" type="QString"/>
+      <Option name="properties"/>
+      <Option name="type" value="collection" type="QString"/>
+     </Option>
+    </data_defined_properties>
+   </layer>
+  </symbol>
+  <LayoutItem size="135.424,191.01,mm" positionLock="false" templateUuid="{13926af5-04a1-4bd6-a02c-1c33658bdbbb}" visibility="1" excludeFromExports="0" frame="false" frameJoinStyle="miter" outlineWidthM="0.3,mm" uuid="{13926af5-04a1-4bd6-a02c-1c33658bdbbb}" background="true" opacity="1" blendMode="0" zValue="0" itemRotation="0" type="65638" id="" groupUuid="" referencePoint="0" position="0,0,mm" positionOnPage="0,0,mm">
+   <FrameColor red="0" alpha="255" blue="0" green="0"/>
+   <BackgroundColor red="255" alpha="255" blue="255" green="255"/>
+   <LayoutObject>
+    <dataDefinedProperties>
+     <Option type="Map">
+      <Option name="name" value="" type="QString"/>
+      <Option name="properties"/>
+      <Option name="type" value="collection" type="QString"/>
+     </Option>
+    </dataDefinedProperties>
+    <customproperties/>
+   </LayoutObject>
+   <symbol clip_to_extent="1" alpha="1" name="" force_rhr="0" type="fill">
+    <layer class="SimpleFill" locked="0" pass="0" enabled="1">
+     <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+     <prop k="color" v="255,255,255,255"/>
+     <prop k="joinstyle" v="miter"/>
+     <prop k="offset" v="0,0"/>
+     <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+     <prop k="offset_unit" v="MM"/>
+     <prop k="outline_color" v="35,35,35,255"/>
+     <prop k="outline_style" v="no"/>
+     <prop k="outline_width" v="0.26"/>
+     <prop k="outline_width_unit" v="MM"/>
+     <prop k="style" v="solid"/>
+     <data_defined_properties>
+      <Option type="Map">
+       <Option name="name" value="" type="QString"/>
+       <Option name="properties"/>
+       <Option name="type" value="collection" type="QString"/>
+      </Option>
+     </data_defined_properties>
+    </layer>
+   </symbol>
+  </LayoutItem>
+  <GuideCollection visible="1"/>
+ </PageCollection>
+ <LayoutItem size="23.349,7.29748,mm" positionLock="false" templateUuid="{103fa392-9002-475d-b2b9-61fc4679d0a8}" visibility="1" excludeFromExports="0" frame="false" frameJoinStyle="miter" outlineWidthM="0.3,mm" labelText="0.25 -" halign="4" uuid="{103fa392-9002-475d-b2b9-61fc4679d0a8}" marginX="0" background="false" opacity="1" blendMode="0" zValue="228" itemRotation="0" type="65641" id="min-mid" htmlState="0" groupUuid="" valign="32" referencePoint="0" position="99.631,130,mm" marginY="0" positionOnPage="99.631,130,mm">
+  <FrameColor red="0" alpha="255" blue="0" green="0"/>
+  <BackgroundColor red="255" alpha="255" blue="255" green="255"/>
+  <LayoutObject>
+   <dataDefinedProperties>
+    <Option type="Map">
+     <Option name="name" value="" type="QString"/>
+     <Option name="properties"/>
+     <Option name="type" value="collection" type="QString"/>
+    </Option>
+   </dataDefinedProperties>
+   <customproperties/>
+  </LayoutObject>
+  <LabelFont description="MS Shell Dlg 2,16,-1,5,50,0,0,0,0,0,Regular" style="Regular"/>
+  <FontColor red="0" alpha="255" blue="0" green="0"/>
+ </LayoutItem>
+ <LayoutItem size="23.349,7.73995,mm" positionLock="false" templateUuid="{3caceb38-59a5-4d15-bd80-6c7fd9ac37cd}" visibility="1" excludeFromExports="0" frame="false" frameJoinStyle="miter" outlineWidthM="0.3,mm" labelText="0.5 -" halign="4" uuid="{3caceb38-59a5-4d15-bd80-6c7fd9ac37cd}" marginX="0" background="false" opacity="1" blendMode="0" zValue="227" itemRotation="0" type="65641" id="mid" htmlState="0" groupUuid="" valign="32" referencePoint="0" position="100.863,97.3187,mm" marginY="0" positionOnPage="100.863,97.3187,mm">
+  <FrameColor red="0" alpha="255" blue="0" green="0"/>
+  <BackgroundColor red="255" alpha="255" blue="255" green="255"/>
+  <LayoutObject>
+   <dataDefinedProperties>
+    <Option type="Map">
+     <Option name="name" value="" type="QString"/>
+     <Option name="properties"/>
+     <Option name="type" value="collection" type="QString"/>
+    </Option>
+   </dataDefinedProperties>
+   <customproperties/>
+  </LayoutObject>
+  <LabelFont description="MS Shell Dlg 2,16,-1,5,50,0,0,0,0,0,Regular" style="Regular"/>
+  <FontColor red="0" alpha="255" blue="0" green="0"/>
+ </LayoutItem>
+ <LayoutItem size="23.349,7.29748,mm" positionLock="false" templateUuid="{8f526ce8-6e9b-4b92-962f-3742fb12416b}" visibility="1" excludeFromExports="0" frame="false" frameJoinStyle="miter" outlineWidthM="0.3,mm" labelText="0.75 -" halign="4" uuid="{8f526ce8-6e9b-4b92-962f-3742fb12416b}" marginX="0" background="false" opacity="1" blendMode="0" zValue="195" itemRotation="0" type="65641" id="mid-max" htmlState="0" groupUuid="" valign="32" referencePoint="0" position="99.5182,62.5048,mm" marginY="0" positionOnPage="99.5182,62.5048,mm">
+  <FrameColor red="0" alpha="255" blue="0" green="0"/>
+  <BackgroundColor red="255" alpha="255" blue="255" green="255"/>
+  <LayoutObject>
+   <dataDefinedProperties>
+    <Option type="Map">
+     <Option name="name" value="" type="QString"/>
+     <Option name="properties"/>
+     <Option name="type" value="collection" type="QString"/>
+    </Option>
+   </dataDefinedProperties>
+   <customproperties/>
+  </LayoutObject>
+  <LabelFont description="MS Shell Dlg 2,16,-1,5,50,0,0,0,0,0,Regular" style="Regular"/>
+  <FontColor red="0" alpha="255" blue="0" green="0"/>
+ </LayoutItem>
+ <LayoutItem size="81.8875,11.694,mm" positionLock="false" templateUuid="{5c01690d-27e0-4474-b637-16235d3075eb}" visibility="1" excludeFromExports="0" frame="false" frameJoinStyle="miter" outlineWidthM="0.3,mm" labelText="A. carbo" halign="2" uuid="{5c01690d-27e0-4474-b637-16235d3075eb}" marginX="0" background="false" opacity="1" blendMode="0" zValue="166" itemRotation="0" type="65641" id="sp" htmlState="0" groupUuid="" valign="128" referencePoint="0" position="46.1232,18.981,mm" marginY="0" positionOnPage="46.1232,18.981,mm">
+  <FrameColor red="0" alpha="255" blue="0" green="0"/>
+  <BackgroundColor red="255" alpha="255" blue="255" green="255"/>
+  <LayoutObject>
+   <dataDefinedProperties>
+    <Option type="Map">
+     <Option name="name" value="" type="QString"/>
+     <Option name="properties"/>
+     <Option name="type" value="collection" type="QString"/>
+    </Option>
+   </dataDefinedProperties>
+   <customproperties/>
+  </LayoutObject>
+  <LabelFont description="Times New Roman,16,-1,5,50,1,0,0,0,0,Italic" style="Italic"/>
+  <FontColor red="0" alpha="255" blue="0" green="0"/>
+ </LayoutItem>
+ <LayoutItem size="23.349,7.29748,mm" positionLock="false" templateUuid="{894587c6-0507-47b5-9d5c-438276ebcf92}" visibility="1" excludeFromExports="0" frame="false" frameJoinStyle="miter" outlineWidthM="0.3,mm" labelText="0 -" halign="4" uuid="{894587c6-0507-47b5-9d5c-438276ebcf92}" marginX="0" background="false" opacity="1" blendMode="0" zValue="164" itemRotation="0" type="65641" id="min" htmlState="0" groupUuid="" valign="32" referencePoint="0" position="103.729,164.115,mm" marginY="0" positionOnPage="103.729,164.115,mm">
+  <FrameColor red="0" alpha="255" blue="0" green="0"/>
+  <BackgroundColor red="255" alpha="255" blue="255" green="255"/>
+  <LayoutObject>
+   <dataDefinedProperties>
+    <Option type="Map">
+     <Option name="name" value="" type="QString"/>
+     <Option name="properties"/>
+     <Option name="type" value="collection" type="QString"/>
+    </Option>
+   </dataDefinedProperties>
+   <customproperties/>
+  </LayoutObject>
+  <LabelFont description="MS Shell Dlg 2,16,-1,5,50,0,0,0,0,0,Regular" style="Regular"/>
+  <FontColor red="0" alpha="255" blue="0" green="0"/>
+ </LayoutItem>
+ <LayoutItem size="34.5797,11.7004,mm" positionLock="false" templateUuid="{4afaeeaa-76bf-48f7-b541-49616faa85ea}" visibility="1" excludeFromExports="0" frame="false" frameJoinStyle="miter" outlineWidthM="0.3,mm" labelText="Sul" halign="4" uuid="{4afaeeaa-76bf-48f7-b541-49616faa85ea}" marginX="0" background="false" opacity="1" blendMode="0" zValue="161" itemRotation="0" type="65641" id="sul" htmlState="0" groupUuid="" valign="32" referencePoint="0" position="39.6322,175.774,mm" marginY="0" positionOnPage="39.6322,175.774,mm">
+  <FrameColor red="0" alpha="255" blue="0" green="0"/>
+  <BackgroundColor red="255" alpha="255" blue="255" green="255"/>
+  <LayoutObject>
+   <dataDefinedProperties>
+    <Option type="Map">
+     <Option name="name" value="" type="QString"/>
+     <Option name="properties"/>
+     <Option name="type" value="collection" type="QString"/>
+    </Option>
+   </dataDefinedProperties>
+   <customproperties/>
+  </LayoutObject>
+  <LabelFont description="MS Shell Dlg 2,16,-1,5,50,0,0,0,0,0,Regular" style="Regular"/>
+  <FontColor red="0" alpha="255" blue="0" green="0"/>
+ </LayoutItem>
+ <LayoutItem size="34.5797,11.7004,mm" positionLock="false" templateUuid="{4e7fdf23-a9a9-4c43-9986-bd0c9ab97da6}" visibility="1" excludeFromExports="0" frame="false" frameJoinStyle="miter" outlineWidthM="0.3,mm" labelText="Centro" halign="4" uuid="{4e7fdf23-a9a9-4c43-9986-bd0c9ab97da6}" marginX="0" background="false" opacity="1" blendMode="0" zValue="159" itemRotation="-90" type="65641" id="centro" htmlState="0" groupUuid="" valign="32" referencePoint="0" position="13.1061,163.384,mm" marginY="0" positionOnPage="13.1061,163.384,mm">
+  <FrameColor red="0" alpha="255" blue="0" green="0"/>
+  <BackgroundColor red="255" alpha="255" blue="255" green="255"/>
+  <LayoutObject>
+   <dataDefinedProperties>
+    <Option type="Map">
+     <Option name="name" value="" type="QString"/>
+     <Option name="properties"/>
+     <Option name="type" value="collection" type="QString"/>
+    </Option>
+   </dataDefinedProperties>
+   <customproperties/>
+  </LayoutObject>
+  <LabelFont description="MS Shell Dlg 2,16,-1,5,50,0,0,0,0,0,Regular" style="Regular"/>
+  <FontColor red="0" alpha="255" blue="0" green="0"/>
+ </LayoutItem>
+ <LayoutItem size="23.349,7.29748,mm" positionLock="false" templateUuid="{78dd1802-aed7-49de-84cb-61d7e418f61a}" visibility="1" excludeFromExports="0" frame="false" frameJoinStyle="miter" outlineWidthM="0.3,mm" labelText="1 -" halign="4" uuid="{78dd1802-aed7-49de-84cb-61d7e418f61a}" marginX="0" background="false" opacity="1" blendMode="0" zValue="159" itemRotation="0" type="65641" id="max" htmlState="0" groupUuid="" valign="32" referencePoint="0" position="103.737,29.6232,mm" marginY="0" positionOnPage="103.737,29.6232,mm">
+  <FrameColor red="0" alpha="255" blue="0" green="0"/>
+  <BackgroundColor red="255" alpha="255" blue="255" green="255"/>
+  <LayoutObject>
+   <dataDefinedProperties>
+    <Option type="Map">
+     <Option name="name" value="" type="QString"/>
+     <Option name="properties"/>
+     <Option name="type" value="collection" type="QString"/>
+    </Option>
+   </dataDefinedProperties>
+   <customproperties/>
+  </LayoutObject>
+  <LabelFont description="MS Shell Dlg 2,16,-1,5,50,0,0,0,0,0,Regular" style="Regular"/>
+  <FontColor red="0" alpha="255" blue="0" green="0"/>
+ </LayoutItem>
+ <LayoutItem size="34.5797,11.7004,mm" positionLock="false" templateUuid="{d989fc3c-76ab-4544-ad5d-1ea7969c702c}" visibility="1" excludeFromExports="0" frame="false" frameJoinStyle="miter" outlineWidthM="0.3,mm" labelText="Norte" halign="4" uuid="{d989fc3c-76ab-4544-ad5d-1ea7969c702c}" marginX="0" background="false" opacity="1" blendMode="0" zValue="152" itemRotation="-90" type="65641" id="norte" htmlState="0" groupUuid="" valign="32" referencePoint="0" position="15.7329,69.506,mm" marginY="0" positionOnPage="15.7329,69.506,mm">
+  <FrameColor red="0" alpha="255" blue="0" green="0"/>
+  <BackgroundColor red="255" alpha="255" blue="255" green="255"/>
+  <LayoutObject>
+   <dataDefinedProperties>
+    <Option type="Map">
+     <Option name="name" value="" type="QString"/>
+     <Option name="properties"/>
+     <Option name="type" value="collection" type="QString"/>
+    </Option>
+   </dataDefinedProperties>
+   <customproperties/>
+  </LayoutObject>
+  <LabelFont description="MS Shell Dlg 2,16,-1,5,50,0,0,0,0,0,Regular" style="Regular"/>
+  <FontColor red="0" alpha="255" blue="0" green="0"/>
+ </LayoutItem>
+ <LayoutItem size="10.7535,134.95,mm" positionLock="false" cornerRadiusMeasure="0,mm" templateUuid="{3c3b3720-4e52-4a6c-b785-f91619f32e08}" visibility="1" excludeFromExports="0" frame="false" frameJoinStyle="miter" outlineWidthM="0.3,mm" uuid="{3c3b3720-4e52-4a6c-b785-f91619f32e08}" background="false" opacity="1" blendMode="0" shapeType="1" zValue="146" itemRotation="0" type="65643" id="" groupUuid="" referencePoint="0" position="118.272,33.272,mm" positionOnPage="118.272,33.272,mm">
+  <FrameColor red="0" alpha="255" blue="0" green="0"/>
+  <BackgroundColor red="255" alpha="255" blue="255" green="255"/>
+  <LayoutObject>
+   <dataDefinedProperties>
+    <Option type="Map">
+     <Option name="name" value="" type="QString"/>
+     <Option name="properties"/>
+     <Option name="type" value="collection" type="QString"/>
+    </Option>
+   </dataDefinedProperties>
+   <customproperties/>
+  </LayoutObject>
+  <symbol clip_to_extent="1" alpha="1" name="" force_rhr="0" type="fill">
+   <layer class="GradientFill" locked="0" pass="0" enabled="1">
+    <prop k="angle" v="0"/>
+    <prop k="color" v="255,255,255,255"/>
+    <prop k="color1" v="43,131,186,255"/>
+    <prop k="color2" v="215,25,28,255"/>
+    <prop k="color_type" v="1"/>
+    <prop k="coordinate_mode" v="0"/>
+    <prop k="discrete" v="0"/>
+    <prop k="gradient_color2" v="255,255,255,255"/>
+    <prop k="offset" v="0,0"/>
+    <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+    <prop k="offset_unit" v="MM"/>
+    <prop k="rampType" v="gradient"/>
+    <prop k="reference_point1" v="0.5,0"/>
+    <prop k="reference_point1_iscentroid" v="0"/>
+    <prop k="reference_point2" v="0.5,1"/>
+    <prop k="reference_point2_iscentroid" v="0"/>
+    <prop k="spread" v="0"/>
+    <prop k="stops" v="0.25;171,221,164,255:0.5;255,255,191,255:0.75;253,174,97,255"/>
+    <prop k="type" v="0"/>
+    <data_defined_properties>
+     <Option type="Map">
+      <Option name="name" value="" type="QString"/>
+      <Option name="properties"/>
+      <Option name="type" value="collection" type="QString"/>
+     </Option>
+    </data_defined_properties>
+   </layer>
+  </symbol>
+ </LayoutItem>
+ <LayoutItem size="32.0027,7.29751,mm" positionLock="false" templateUuid="{0ed6896d-f195-45db-9926-6703b24bb7da}" visibility="1" excludeFromExports="0" frame="false" frameJoinStyle="miter" outlineWidthM="0.3,mm" labelText="Present" halign="4" uuid="{0ed6896d-f195-45db-9926-6703b24bb7da}" marginX="0" background="false" opacity="1" blendMode="0" zValue="129" itemRotation="0" type="65641" id="title" htmlState="0" groupUuid="" valign="32" referencePoint="0" position="56.1432,12.6835,mm" marginY="0" positionOnPage="56.1432,12.6835,mm">
+  <FrameColor red="0" alpha="255" blue="0" green="0"/>
+  <BackgroundColor red="255" alpha="255" blue="255" green="255"/>
+  <LayoutObject>
+   <dataDefinedProperties>
+    <Option type="Map">
+     <Option name="name" value="" type="QString"/>
+     <Option name="properties"/>
+     <Option name="type" value="collection" type="QString"/>
+    </Option>
+   </dataDefinedProperties>
+   <customproperties/>
+  </LayoutObject>
+  <LabelFont description="MS Shell Dlg 2,16,-1,5,75,0,0,0,0,0,Bold" style="Bold"/>
+  <FontColor red="0" alpha="255" blue="0" green="0"/>
+ </LayoutItem>
+ <LayoutItem size="135.212,7.29751,mm" positionLock="false" templateUuid="{ae5ef973-4ac6-40c1-8b44-4b9cc3427cc3}" visibility="1" excludeFromExports="0" frame="false" frameJoinStyle="miter" outlineWidthM="0.3,mm" labelText="Probabilidade de Ocorrência" halign="4" uuid="{ae5ef973-4ac6-40c1-8b44-4b9cc3427cc3}" marginX="0" background="false" opacity="1" blendMode="0" zValue="114" itemRotation="0" type="65641" id="" htmlState="0" groupUuid="" valign="128" referencePoint="0" position="0.212,4.68352,mm" marginY="0" positionOnPage="0.212,4.68352,mm">
+  <FrameColor red="0" alpha="255" blue="0" green="0"/>
+  <BackgroundColor red="255" alpha="255" blue="255" green="255"/>
+  <LayoutObject>
+   <dataDefinedProperties>
+    <Option type="Map">
+     <Option name="name" value="" type="QString"/>
+     <Option name="properties"/>
+     <Option name="type" value="collection" type="QString"/>
+    </Option>
+   </dataDefinedProperties>
+   <customproperties/>
+  </LayoutObject>
+  <LabelFont description="MS Shell Dlg 2,18,-1,5,75,0,0,0,0,0,Bold" style="Bold"/>
+  <FontColor red="0" alpha="255" blue="0" green="0"/>
+ </LayoutItem>
+ <LayoutItem labelHorizontalPlacement="0" alignment="0" lineCapStyle="square" minBarWidth="50" labelBarSpace="3" numSegmentsLeft="0" segmentMillimeters="8.16347" positionLock="false" size="29.6065,13.1955,mm" height="3" referencePoint="0" unitLabel="km" groupUuid="" segmentSizeMode="0" zValue="102" style="Line Ticks Up" visibility="1" frameJoinStyle="miter" numMapUnitsPerScaleBarUnit="1" excludeFromExports="0" subdivisionsHeight="1.5" numSegments="2" frame="false" boxContentSpace="1" unitType="km" labelVerticalPlacement="0" opacity="1" lineJoinStyle="miter" blendMode="0" numUnitsPerSegment="25" outlineWidthM="0.3,mm" background="false" itemRotation="0" numSubdivisions="1" type="65646" maxBarWidth="150" uuid="{2563a69c-fac6-4390-ae81-a799ddec48ca}" id="" position="103.614,172.905,mm" positionOnPage="103.614,172.905,mm" templateUuid="{2563a69c-fac6-4390-ae81-a799ddec48ca}" outlineWidth="0.3">
+  <FrameColor red="0" alpha="255" blue="0" green="0"/>
+  <BackgroundColor red="255" alpha="255" blue="255" green="255"/>
+  <LayoutObject>
+   <dataDefinedProperties>
+    <Option type="Map">
+     <Option name="name" value="" type="QString"/>
+     <Option name="properties"/>
+     <Option name="type" value="collection" type="QString"/>
+    </Option>
+   </dataDefinedProperties>
+   <customproperties/>
+  </LayoutObject>
+  <text-style multilineHeight="1" textColor="0,0,0,255" fontWordSpacing="0" fontLetterSpacing="0" textOpacity="1" fontSizeUnit="Point" fontStrikeout="0" fontSizeMapUnitScale="3x:0,0,0,0,0,0" fontWeight="50" namedStyle="" textOrientation="horizontal" blendMode="0" fontItalic="0" fontSize="12" fontUnderline="0" fontFamily="MS Shell Dlg 2" fontKerning="1" allowHtml="0" previewBkgrdColor="255,255,255,255" capitalization="0">
+   <text-buffer bufferDraw="0" bufferColor="255,255,255,255" bufferJoinStyle="128" bufferSizeMapUnitScale="3x:0,0,0,0,0,0" bufferSize="1" bufferNoFill="1" bufferBlendMode="0" bufferSizeUnits="MM" bufferOpacity="1"/>
+   <text-mask maskSizeUnits="MM" maskJoinStyle="128" maskOpacity="1" maskSize="1.5" maskedSymbolLayers="" maskSizeMapUnitScale="3x:0,0,0,0,0,0" maskType="0" maskEnabled="0"/>
+   <background shapeOffsetUnit="MM" shapeBorderWidthMapUnitScale="3x:0,0,0,0,0,0" shapeBlendMode="0" shapeFillColor="255,255,255,255" shapeSizeMapUnitScale="3x:0,0,0,0,0,0" shapeRadiiX="0" shapeSVGFile="" shapeSizeUnit="MM" shapeDraw="0" shapeOffsetX="0" shapeRadiiUnit="MM" shapeBorderWidth="0" shapeRadiiY="0" shapeType="0" shapeBorderColor="128,128,128,255" shapeRotationType="0" shapeSizeX="0" shapeRadiiMapUnitScale="3x:0,0,0,0,0,0" shapeRotation="0" shapeOffsetY="0" shapeOffsetMapUnitScale="3x:0,0,0,0,0,0" shapeBorderWidthUnit="MM" shapeOpacity="1" shapeSizeType="0" shapeSizeY="0" shapeJoinStyle="64"/>
+   <shadow shadowOffsetMapUnitScale="3x:0,0,0,0,0,0" shadowUnder="0" shadowOpacity="0.7" shadowBlendMode="6" shadowDraw="0" shadowOffsetUnit="MM" shadowRadius="1.5" shadowColor="0,0,0,255" shadowOffsetAngle="135" shadowRadiusUnit="MM" shadowRadiusMapUnitScale="3x:0,0,0,0,0,0" shadowRadiusAlphaOnly="0" shadowOffsetDist="1" shadowScale="100" shadowOffsetGlobal="1"/>
+   <dd_properties>
+    <Option type="Map">
+     <Option name="name" value="" type="QString"/>
+     <Option name="properties"/>
+     <Option name="type" value="collection" type="QString"/>
+    </Option>
+   </dd_properties>
+  </text-style>
+  <strokeColor red="0" alpha="255" blue="0" green="0"/>
+  <numericFormat id="basic">
+   <Option type="Map">
+    <Option name="decimal_separator" value="" type="QChar"/>
+    <Option name="decimals" value="6" type="int"/>
+    <Option name="rounding_type" value="0" type="int"/>
+    <Option name="show_plus" value="false" type="bool"/>
+    <Option name="show_thousand_separator" value="true" type="bool"/>
+    <Option name="show_trailing_zeros" value="false" type="bool"/>
+    <Option name="thousand_separator" value="" type="QChar"/>
+   </Option>
+  </numericFormat>
+  <fillColor red="0" alpha="255" blue="0" green="0"/>
+  <fillColor2 red="255" alpha="255" blue="255" green="255"/>
+  <lineSymbol>
+   <symbol clip_to_extent="1" alpha="1" name="" force_rhr="0" type="line">
+    <layer class="SimpleLine" locked="0" pass="0" enabled="1">
+     <prop k="align_dash_pattern" v="0"/>
+     <prop k="capstyle" v="square"/>
+     <prop k="customdash" v="5;2"/>
+     <prop k="customdash_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+     <prop k="customdash_unit" v="MM"/>
+     <prop k="dash_pattern_offset" v="0"/>
+     <prop k="dash_pattern_offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+     <prop k="dash_pattern_offset_unit" v="MM"/>
+     <prop k="draw_inside_polygon" v="0"/>
+     <prop k="joinstyle" v="miter"/>
+     <prop k="line_color" v="0,0,0,255"/>
+     <prop k="line_style" v="solid"/>
+     <prop k="line_width" v="0.3"/>
+     <prop k="line_width_unit" v="MM"/>
+     <prop k="offset" v="0"/>
+     <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+     <prop k="offset_unit" v="MM"/>
+     <prop k="ring_filter" v="0"/>
+     <prop k="tweak_dash_pattern_on_corners" v="0"/>
+     <prop k="use_custom_dash" v="0"/>
+     <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+     <data_defined_properties>
+      <Option type="Map">
+       <Option name="name" value="" type="QString"/>
+       <Option name="properties"/>
+       <Option name="type" value="collection" type="QString"/>
+      </Option>
+     </data_defined_properties>
+    </layer>
+   </symbol>
+  </lineSymbol>
+  <divisionLineSymbol>
+   <symbol clip_to_extent="1" alpha="1" name="" force_rhr="0" type="line">
+    <layer class="SimpleLine" locked="0" pass="0" enabled="1">
+     <prop k="align_dash_pattern" v="0"/>
+     <prop k="capstyle" v="square"/>
+     <prop k="customdash" v="5;2"/>
+     <prop k="customdash_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+     <prop k="customdash_unit" v="MM"/>
+     <prop k="dash_pattern_offset" v="0"/>
+     <prop k="dash_pattern_offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+     <prop k="dash_pattern_offset_unit" v="MM"/>
+     <prop k="draw_inside_polygon" v="0"/>
+     <prop k="joinstyle" v="miter"/>
+     <prop k="line_color" v="0,0,0,255"/>
+     <prop k="line_style" v="solid"/>
+     <prop k="line_width" v="0.3"/>
+     <prop k="line_width_unit" v="MM"/>
+     <prop k="offset" v="0"/>
+     <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+     <prop k="offset_unit" v="MM"/>
+     <prop k="ring_filter" v="0"/>
+     <prop k="tweak_dash_pattern_on_corners" v="0"/>
+     <prop k="use_custom_dash" v="0"/>
+     <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+     <data_defined_properties>
+      <Option type="Map">
+       <Option name="name" value="" type="QString"/>
+       <Option name="properties"/>
+       <Option name="type" value="collection" type="QString"/>
+      </Option>
+     </data_defined_properties>
+    </layer>
+   </symbol>
+  </divisionLineSymbol>
+  <subdivisionLineSymbol>
+   <symbol clip_to_extent="1" alpha="1" name="" force_rhr="0" type="line">
+    <layer class="SimpleLine" locked="0" pass="0" enabled="1">
+     <prop k="align_dash_pattern" v="0"/>
+     <prop k="capstyle" v="square"/>
+     <prop k="customdash" v="5;2"/>
+     <prop k="customdash_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+     <prop k="customdash_unit" v="MM"/>
+     <prop k="dash_pattern_offset" v="0"/>
+     <prop k="dash_pattern_offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+     <prop k="dash_pattern_offset_unit" v="MM"/>
+     <prop k="draw_inside_polygon" v="0"/>
+     <prop k="joinstyle" v="miter"/>
+     <prop k="line_color" v="0,0,0,255"/>
+     <prop k="line_style" v="solid"/>
+     <prop k="line_width" v="0.3"/>
+     <prop k="line_width_unit" v="MM"/>
+     <prop k="offset" v="0"/>
+     <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+     <prop k="offset_unit" v="MM"/>
+     <prop k="ring_filter" v="0"/>
+     <prop k="tweak_dash_pattern_on_corners" v="0"/>
+     <prop k="use_custom_dash" v="0"/>
+     <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+     <data_defined_properties>
+      <Option type="Map">
+       <Option name="name" value="" type="QString"/>
+       <Option name="properties"/>
+       <Option name="type" value="collection" type="QString"/>
+      </Option>
+     </data_defined_properties>
+    </layer>
+   </symbol>
+  </subdivisionLineSymbol>
+  <fillSymbol1>
+   <symbol clip_to_extent="1" alpha="1" name="" force_rhr="0" type="fill">
+    <layer class="SimpleFill" locked="0" pass="0" enabled="1">
+     <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+     <prop k="color" v="0,0,0,255"/>
+     <prop k="joinstyle" v="bevel"/>
+     <prop k="offset" v="0,0"/>
+     <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+     <prop k="offset_unit" v="MM"/>
+     <prop k="outline_color" v="35,35,35,255"/>
+     <prop k="outline_style" v="no"/>
+     <prop k="outline_width" v="0.26"/>
+     <prop k="outline_width_unit" v="MM"/>
+     <prop k="style" v="solid"/>
+     <data_defined_properties>
+      <Option type="Map">
+       <Option name="name" value="" type="QString"/>
+       <Option name="properties"/>
+       <Option name="type" value="collection" type="QString"/>
+      </Option>
+     </data_defined_properties>
+    </layer>
+   </symbol>
+  </fillSymbol1>
+  <fillSymbol2>
+   <symbol clip_to_extent="1" alpha="1" name="" force_rhr="0" type="fill">
+    <layer class="SimpleFill" locked="0" pass="0" enabled="1">
+     <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+     <prop k="color" v="255,255,255,255"/>
+     <prop k="joinstyle" v="bevel"/>
+     <prop k="offset" v="0,0"/>
+     <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+     <prop k="offset_unit" v="MM"/>
+     <prop k="outline_color" v="35,35,35,255"/>
+     <prop k="outline_style" v="no"/>
+     <prop k="outline_width" v="0.26"/>
+     <prop k="outline_width_unit" v="MM"/>
+     <prop k="style" v="solid"/>
+     <data_defined_properties>
+      <Option type="Map">
+       <Option name="name" value="" type="QString"/>
+       <Option name="properties"/>
+       <Option name="type" value="collection" type="QString"/>
+      </Option>
+     </data_defined_properties>
+    </layer>
+   </symbol>
+  </fillSymbol2>
+ </LayoutItem>
+ <LayoutItem size="11.6137,14.9648,mm" pictureRotation="0" svgBorderWidth="0.2" positionLock="false" templateUuid="{9bfd0b5e-9d27-459d-9c24-7de419c7dda2}" visibility="1" excludeFromExports="0" frame="false" frameJoinStyle="miter" outlineWidthM="0.3,mm" uuid="{9bfd0b5e-9d27-459d-9c24-7de419c7dda2}" svgBorderColor="0,0,0,255" background="false" pictureWidth="9.41085" opacity="1" northOffset="0" blendMode="0" mode="0" zValue="79" itemRotation="0" type="65640" mapUuid="" id="North Arrow" pictureHeight="14.9648" groupUuid="" svgFillColor="0,0,0,255" referencePoint="0" file="arrows/NorthArrow_04.svg" resizeMode="0" anchorPoint="0" northMode="0" position="3.948,2.69198,mm" positionOnPage="3.948,2.69198,mm">
+  <FrameColor red="0" alpha="255" blue="0" green="0"/>
+  <BackgroundColor red="255" alpha="255" blue="255" green="255"/>
+  <LayoutObject>
+   <dataDefinedProperties>
+    <Option type="Map">
+     <Option name="name" value="" type="QString"/>
+     <Option name="properties"/>
+     <Option name="type" value="collection" type="QString"/>
+    </Option>
+   </dataDefinedProperties>
+   <customproperties/>
+  </LayoutObject>
+ </LayoutItem>
+ <LayoutItem size="45.1244,13.195,mm" positionLock="false" templateUuid="{63203be4-f478-4e14-b7cd-ff37d691b05a}" visibility="1" excludeFromExports="0" frame="false" frameJoinStyle="miter" outlineWidthM="0.3,mm" labelText="Portugal" halign="8" uuid="{63203be4-f478-4e14-b7cd-ff37d691b05a}" marginX="0" background="false" opacity="1" blendMode="0" zValue="50" itemRotation="0" type="65641" id="" htmlState="0" groupUuid="" valign="32" referencePoint="0" position="27.8112,97.505,mm" marginY="0" positionOnPage="27.8112,97.505,mm">
+  <FrameColor red="0" alpha="255" blue="0" green="0"/>
+  <BackgroundColor red="255" alpha="255" blue="255" green="255"/>
+  <LayoutObject>
+   <dataDefinedProperties>
+    <Option type="Map">
+     <Option name="name" value="" type="QString"/>
+     <Option name="properties"/>
+     <Option name="type" value="collection" type="QString"/>
+    </Option>
+   </dataDefinedProperties>
+   <customproperties/>
+  </LayoutObject>
+  <LabelFont description="MS Shell Dlg 2,20,-1,5,50,0,0,0,0,0,Regular" style="Regular"/>
+  <FontColor red="0" alpha="255" blue="0" green="0"/>
+ </LayoutItem>
+ <LayoutItem size="135.212,191.01,mm" positionLock="false" templateUuid="{e8f22d72-f070-4646-bce2-6a44274cbefb}" visibility="1" excludeFromExports="0" frame="false" frameJoinStyle="miter" outlineWidthM="0.3,mm" mapFlags="0" uuid="{e8f22d72-f070-4646-bce2-6a44274cbefb}" background="true" followPreset="false" isTemporal="0" opacity="1" blendMode="0" zValue="46" followPresetName="" itemRotation="0" type="65639" id="Present" keepLayerSet="true" mapRotation="0" labelMargin="0,mm" drawCanvasItems="false" groupUuid="" referencePoint="0" position="0,0,mm" positionOnPage="0,0,mm">
+  <FrameColor red="0" alpha="255" blue="0" green="0"/>
+  <BackgroundColor red="255" alpha="255" blue="255" green="255"/>
+  <LayoutObject>
+   <dataDefinedProperties>
+    <Option type="Map">
+     <Option name="name" value="" type="QString"/>
+     <Option name="properties"/>
+     <Option name="type" value="collection" type="QString"/>
+    </Option>
+   </dataDefinedProperties>
+   <customproperties/>
+  </LayoutObject>
+  <Extent ymin="36.27800046668835421" xmin="-9.75499966964113163" ymax="42.78899953331166017" xmax="-5.14600033035886817"/>
+  <LayerSet/>
+  <LayerStyles>
+   <LayerStyle layerid="Acarbo_present_hsm_1f8e9c77_c719_45ff_b3b2_4d058df99326" source="" provider="" name="">
+    <qgis version="3.16.11-Hannover" minScale="1e+08" hasScaleBasedVisibilityFlag="0" styleCategories="AllStyleCategories" maxScale="0">
+     <flags>
+      <Identifiable>1</Identifiable>
+      <Removable>1</Removable>
+      <Searchable>1</Searchable>
+     </flags>
+     <temporal mode="0" fetchMode="0" enabled="0">
+      <fixedRange>
+       <start/>
+       <end/>
+      </fixedRange>
+     </temporal>
+     <customproperties>
+      <property key="WMSBackgroundLayer" value="false"/>
+      <property key="WMSPublishDataSourceUrl" value="false"/>
+      <property key="embeddedWidgets/count" value="0"/>
+      <property key="identify/format" value="Value"/>
+     </customproperties>
+     <pipe>
+      <provider>
+       <resampling zoomedOutResamplingMethod="nearestNeighbour" zoomedInResamplingMethod="nearestNeighbour" enabled="false" maxOversampling="2"/>
+      </provider>
+      <rasterrenderer opacity="1" alphaBand="-1" nodataColor="" classificationMax="1" band="1" classificationMin="0.12967585027218" type="singlebandpseudocolor">
+       <rasterTransparency/>
+       <minMaxOrigin>
+        <limits>None</limits>
+        <extent>WholeRaster</extent>
+        <statAccuracy>Estimated</statAccuracy>
+        <cumulativeCutLower>0.02</cumulativeCutLower>
+        <cumulativeCutUpper>0.98</cumulativeCutUpper>
+        <stdDevFactor>2</stdDevFactor>
+       </minMaxOrigin>
+       <rastershader>
+        <colorrampshader colorRampType="INTERPOLATED" clip="0" classificationMode="1" maximumValue="1" labelPrecision="2" minimumValue="0.12967585027218">
+         <colorramp name="[source]" type="gradient">
+          <prop k="color1" v="215,25,28,255"/>
+          <prop k="color2" v="43,131,186,255"/>
+          <prop k="discrete" v="0"/>
+          <prop k="rampType" v="gradient"/>
+          <prop k="stops" v="0.25;253,174,97,255:0.5;255,255,191,255:0.75;171,221,164,255"/>
+         </colorramp>
+         <item color="#d7191c" alpha="255" label="0.13" value="0.12967585027218"/>
+         <item color="#fdae61" alpha="255" label="0.35" value="0.347256887704135"/>
+         <item color="#ffffbf" alpha="255" label="0.56" value="0.56483792513609"/>
+         <item color="#abdda4" alpha="255" label="0.78" value="0.782418962568045"/>
+         <item color="#2b83ba" alpha="255" label="1.00" value="1"/>
+        </colorrampshader>
+       </rastershader>
+      </rasterrenderer>
+      <brightnesscontrast contrast="0" brightness="0" gamma="1"/>
+      <huesaturation colorizeBlue="128" colorizeStrength="100" colorizeGreen="128" colorizeRed="255" grayscaleMode="0" saturation="0" colorizeOn="0"/>
+      <rasterresampler maxOversampling="2"/>
+      <resamplingStage>resamplingFilter</resamplingStage>
+     </pipe>
+     <blendMode>0</blendMode>
+    </qgis>
+   </LayerStyle>
+   <LayerStyle layerid="Acarbo_rcp45_hsm_bd3620df_c4a6_42e7_bf70_1272966d14d0" source="" provider="" name="">
+    <qgis version="3.16.11-Hannover" minScale="1e+08" hasScaleBasedVisibilityFlag="0" styleCategories="AllStyleCategories" maxScale="0">
+     <flags>
+      <Identifiable>1</Identifiable>
+      <Removable>1</Removable>
+      <Searchable>1</Searchable>
+     </flags>
+     <temporal mode="0" fetchMode="0" enabled="0">
+      <fixedRange>
+       <start/>
+       <end/>
+      </fixedRange>
+     </temporal>
+     <customproperties>
+      <property key="WMSBackgroundLayer" value="false"/>
+      <property key="WMSPublishDataSourceUrl" value="false"/>
+      <property key="embeddedWidgets/count" value="0"/>
+      <property key="identify/format" value="Value"/>
+     </customproperties>
+     <pipe>
+      <provider>
+       <resampling zoomedOutResamplingMethod="nearestNeighbour" zoomedInResamplingMethod="nearestNeighbour" enabled="false" maxOversampling="2"/>
+      </provider>
+      <rasterrenderer opacity="1" alphaBand="-1" nodataColor="" classificationMax="1" band="1" classificationMin="0.12967585027218" type="singlebandpseudocolor">
+       <rasterTransparency/>
+       <minMaxOrigin>
+        <limits>None</limits>
+        <extent>WholeRaster</extent>
+        <statAccuracy>Estimated</statAccuracy>
+        <cumulativeCutLower>0.02</cumulativeCutLower>
+        <cumulativeCutUpper>0.98</cumulativeCutUpper>
+        <stdDevFactor>2</stdDevFactor>
+       </minMaxOrigin>
+       <rastershader>
+        <colorrampshader colorRampType="INTERPOLATED" clip="0" classificationMode="1" maximumValue="1" labelPrecision="2" minimumValue="0.12967585027218">
+         <colorramp name="[source]" type="gradient">
+          <prop k="color1" v="215,25,28,255"/>
+          <prop k="color2" v="43,131,186,255"/>
+          <prop k="discrete" v="0"/>
+          <prop k="rampType" v="gradient"/>
+          <prop k="stops" v="0.25;253,174,97,255:0.5;255,255,191,255:0.75;171,221,164,255"/>
+         </colorramp>
+         <item color="#d7191c" alpha="255" label="0.13" value="0.12967585027218"/>
+         <item color="#fdae61" alpha="255" label="0.35" value="0.347256887704135"/>
+         <item color="#ffffbf" alpha="255" label="0.56" value="0.56483792513609"/>
+         <item color="#abdda4" alpha="255" label="0.78" value="0.782418962568045"/>
+         <item color="#2b83ba" alpha="255" label="1.00" value="1"/>
+        </colorrampshader>
+       </rastershader>
+      </rasterrenderer>
+      <brightnesscontrast contrast="0" brightness="0" gamma="1"/>
+      <huesaturation colorizeBlue="128" colorizeStrength="100" colorizeGreen="128" colorizeRed="255" grayscaleMode="0" saturation="0" colorizeOn="0"/>
+      <rasterresampler maxOversampling="2"/>
+      <resamplingStage>resamplingFilter</resamplingStage>
+     </pipe>
+     <blendMode>0</blendMode>
+    </qgis>
+   </LayerStyle>
+   <LayerStyle layerid="Acarbo_rcp85_hsm_871c727e_8a87_4aea_ba35_f916df689056" source="" provider="" name="">
+    <qgis version="3.16.11-Hannover" minScale="1e+08" hasScaleBasedVisibilityFlag="0" styleCategories="AllStyleCategories" maxScale="0">
+     <flags>
+      <Identifiable>1</Identifiable>
+      <Removable>1</Removable>
+      <Searchable>1</Searchable>
+     </flags>
+     <temporal mode="0" fetchMode="0" enabled="0">
+      <fixedRange>
+       <start/>
+       <end/>
+      </fixedRange>
+     </temporal>
+     <customproperties>
+      <property key="WMSBackgroundLayer" value="false"/>
+      <property key="WMSPublishDataSourceUrl" value="false"/>
+      <property key="embeddedWidgets/count" value="0"/>
+      <property key="identify/format" value="Value"/>
+     </customproperties>
+     <pipe>
+      <provider>
+       <resampling zoomedOutResamplingMethod="nearestNeighbour" zoomedInResamplingMethod="nearestNeighbour" enabled="false" maxOversampling="2"/>
+      </provider>
+      <rasterrenderer opacity="1" alphaBand="-1" nodataColor="" classificationMax="1" band="1" classificationMin="0.12967585027218" type="singlebandpseudocolor">
+       <rasterTransparency/>
+       <minMaxOrigin>
+        <limits>None</limits>
+        <extent>WholeRaster</extent>
+        <statAccuracy>Estimated</statAccuracy>
+        <cumulativeCutLower>0.02</cumulativeCutLower>
+        <cumulativeCutUpper>0.98</cumulativeCutUpper>
+        <stdDevFactor>2</stdDevFactor>
+       </minMaxOrigin>
+       <rastershader>
+        <colorrampshader colorRampType="INTERPOLATED" clip="0" classificationMode="1" maximumValue="1" labelPrecision="2" minimumValue="0.12967585027218">
+         <colorramp name="[source]" type="gradient">
+          <prop k="color1" v="215,25,28,255"/>
+          <prop k="color2" v="43,131,186,255"/>
+          <prop k="discrete" v="0"/>
+          <prop k="rampType" v="gradient"/>
+          <prop k="stops" v="0.25;253,174,97,255:0.5;255,255,191,255:0.75;171,221,164,255"/>
+         </colorramp>
+         <item color="#d7191c" alpha="255" label="0.13" value="0.12967585027218"/>
+         <item color="#fdae61" alpha="255" label="0.35" value="0.347256887704135"/>
+         <item color="#ffffbf" alpha="255" label="0.56" value="0.56483792513609"/>
+         <item color="#abdda4" alpha="255" label="0.78" value="0.782418962568045"/>
+         <item color="#2b83ba" alpha="255" label="1.00" value="1"/>
+        </colorrampshader>
+       </rastershader>
+      </rasterrenderer>
+      <brightnesscontrast contrast="0" brightness="0" gamma="1"/>
+      <huesaturation colorizeBlue="128" colorizeStrength="100" colorizeGreen="128" colorizeRed="255" grayscaleMode="0" saturation="0" colorizeOn="0"/>
+      <rasterresampler maxOversampling="2"/>
+      <resamplingStage>resamplingFilter</resamplingStage>
+     </pipe>
+     <blendMode>0</blendMode>
+    </qgis>
+   </LayerStyle>
+   <LayerStyle layerid="Europe_coastline_poly_ca79f419_df38_4e3d_880b_c094f18cfcc8" source="" provider="" name="">
+    <qgis readOnly="0" version="3.16.11-Hannover" minScale="100000000" simplifyLocal="1" labelsEnabled="0" simplifyDrawingTol="1" hasScaleBasedVisibilityFlag="0" styleCategories="AllStyleCategories" simplifyMaxScale="1" simplifyDrawingHints="1" simplifyAlgorithm="0" maxScale="0">
+     <flags>
+      <Identifiable>1</Identifiable>
+      <Removable>1</Removable>
+      <Searchable>1</Searchable>
+     </flags>
+     <temporal mode="0" durationUnit="min" endExpression="" accumulate="0" enabled="0" startExpression="" fixedDuration="0" endField="" startField="" durationField="">
+      <fixedRange>
+       <start/>
+       <end/>
+      </fixedRange>
+     </temporal>
+     <renderer-v2 forceraster="0" enableorderby="0" symbollevels="0" type="singleSymbol">
+      <symbols>
+       <symbol clip_to_extent="1" alpha="1" name="0" force_rhr="0" type="fill">
+        <layer class="SimpleFill" pass="0" locked="0" enabled="1">
+         <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+         <prop k="color" v="213,202,203,255"/>
+         <prop k="joinstyle" v="bevel"/>
+         <prop k="offset" v="0,0"/>
+         <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+         <prop k="offset_unit" v="MM"/>
+         <prop k="outline_color" v="35,35,35,255"/>
+         <prop k="outline_style" v="no"/>
+         <prop k="outline_width" v="0.26"/>
+         <prop k="outline_width_unit" v="MM"/>
+         <prop k="style" v="solid"/>
+         <data_defined_properties>
+          <Option type="Map">
+           <Option name="name" value="" type="QString"/>
+           <Option name="properties"/>
+           <Option name="type" value="collection" type="QString"/>
+          </Option>
+         </data_defined_properties>
+        </layer>
+       </symbol>
+      </symbols>
+      <rotation/>
+      <sizescale/>
+     </renderer-v2>
+     <customproperties>
+      <property key="embeddedWidgets/count" value="0"/>
+      <property key="variableNames"/>
+      <property key="variableValues"/>
+     </customproperties>
+     <blendMode>0</blendMode>
+     <featureBlendMode>0</featureBlendMode>
+     <layerOpacity>1</layerOpacity>
+     <SingleCategoryDiagramRenderer diagramType="Histogram" attributeLegend="1">
+      <DiagramCategory direction="0" maxScaleDenominator="1e+08" sizeScale="3x:0,0,0,0,0,0" width="15" minimumSize="0" height="15" scaleDependency="Area" backgroundColor="#ffffff" sizeType="MM" rotationOffset="270" enabled="0" opacity="1" backgroundAlpha="255" lineSizeType="MM" diagramOrientation="Up" penAlpha="255" penWidth="0" penColor="#000000" minScaleDenominator="0" showAxis="1" spacingUnit="MM" barWidth="5" spacing="5" lineSizeScale="3x:0,0,0,0,0,0" scaleBasedVisibility="0" labelPlacementMethod="XHeight" spacingUnitScale="3x:0,0,0,0,0,0">
+       <fontProperties description="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0" style=""/>
+       <attribute color="#000000" field="" label=""/>
+       <axisSymbol>
+        <symbol clip_to_extent="1" alpha="1" name="" force_rhr="0" type="line">
+         <layer class="SimpleLine" pass="0" locked="0" enabled="1">
+          <prop k="align_dash_pattern" v="0"/>
+          <prop k="capstyle" v="square"/>
+          <prop k="customdash" v="5;2"/>
+          <prop k="customdash_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+          <prop k="customdash_unit" v="MM"/>
+          <prop k="dash_pattern_offset" v="0"/>
+          <prop k="dash_pattern_offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+          <prop k="dash_pattern_offset_unit" v="MM"/>
+          <prop k="draw_inside_polygon" v="0"/>
+          <prop k="joinstyle" v="bevel"/>
+          <prop k="line_color" v="35,35,35,255"/>
+          <prop k="line_style" v="solid"/>
+          <prop k="line_width" v="0.26"/>
+          <prop k="line_width_unit" v="MM"/>
+          <prop k="offset" v="0"/>
+          <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+          <prop k="offset_unit" v="MM"/>
+          <prop k="ring_filter" v="0"/>
+          <prop k="tweak_dash_pattern_on_corners" v="0"/>
+          <prop k="use_custom_dash" v="0"/>
+          <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+          <data_defined_properties>
+           <Option type="Map">
+            <Option name="name" value="" type="QString"/>
+            <Option name="properties"/>
+            <Option name="type" value="collection" type="QString"/>
+           </Option>
+          </data_defined_properties>
+         </layer>
+        </symbol>
+       </axisSymbol>
+      </DiagramCategory>
+     </SingleCategoryDiagramRenderer>
+     <DiagramLayerSettings placement="1" dist="0" zIndex="0" linePlacementFlags="18" showAll="1" priority="0" obstacle="0">
+      <properties>
+       <Option type="Map">
+        <Option name="name" value="" type="QString"/>
+        <Option name="properties"/>
+        <Option name="type" value="collection" type="QString"/>
+       </Option>
+      </properties>
+     </DiagramLayerSettings>
+     <geometryOptions geometryPrecision="0" removeDuplicateNodes="0">
+      <activeChecks/>
+      <checkConfiguration type="Map">
+       <Option name="QgsGeometryGapCheck" type="Map">
+        <Option name="allowedGapsBuffer" value="0" type="double"/>
+        <Option name="allowedGapsEnabled" value="false" type="bool"/>
+        <Option name="allowedGapsLayer" value="" type="QString"/>
+       </Option>
+      </checkConfiguration>
+     </geometryOptions>
+     <legend type="default-vector"/>
+     <referencedLayers/>
+     <fieldConfiguration>
+      <field configurationFlags="None" name="Id">
+       <editWidget type="Range">
+        <config>
+         <Option/>
+        </config>
+       </editWidget>
+      </field>
+     </fieldConfiguration>
+     <aliases>
+      <alias field="Id" name="" index="0"/>
+     </aliases>
+     <defaults>
+      <default expression="" field="Id" applyOnUpdate="0"/>
+     </defaults>
+     <constraints>
+      <constraint notnull_strength="0" exp_strength="0" field="Id" unique_strength="0" constraints="0"/>
+     </constraints>
+     <constraintExpressions>
+      <constraint field="Id" exp="" desc=""/>
+     </constraintExpressions>
+     <expressionfields/>
+     <attributeactions>
+      <defaultAction key="Canvas" value="{00000000-0000-0000-0000-000000000000}"/>
+     </attributeactions>
+     <attributetableconfig sortExpression="" sortOrder="0" actionWidgetStyle="dropDown">
+      <columns>
+       <column name="Id" width="-1" hidden="0" type="field"/>
+       <column width="-1" hidden="1" type="actions"/>
+      </columns>
+     </attributetableconfig>
+     <conditionalstyles>
+      <rowstyles/>
+      <fieldstyles/>
+     </conditionalstyles>
+     <storedexpressions/>
+     <editform tolerant="1"/>
+     <editforminit/>
+     <editforminitcodesource>0</editforminitcodesource>
+     <editforminitfilepath/>
+     <editforminitcode><![CDATA[# -*- coding: utf-8 -*-
+"""
+QGIS forms can have a Python function that is called when the form is
+opened.
+
+Use this function to add extra logic to your forms.
+
+Enter the name of the function in the "Python Init function"
+field.
+An example follows:
+"""
+from qgis.PyQt.QtWidgets import QWidget
+
+def my_form_open(dialog, layer, feature):
+	geom = feature.geometry()
+	control = dialog.findChild(QWidget, "MyLineEdit")
+]]></editforminitcode>
+     <featformsuppress>0</featformsuppress>
+     <editorlayout>generatedlayout</editorlayout>
+     <editable>
+      <field editable="1" name="Id"/>
+     </editable>
+     <labelOnTop>
+      <field labelOnTop="0" name="Id"/>
+     </labelOnTop>
+     <dataDefinedFieldProperties/>
+     <widgets/>
+     <previewExpression>"Id"</previewExpression>
+     <mapTip/>
+     <layerGeometryType>2</layerGeometryType>
+    </qgis>
+   </LayerStyle>
+   <LayerStyle layerid="Nor_Cen_sou_938c5352_06cf_45b2_ae5b_ae9a3a6d3e0a" source="" provider="" name="">
+    <qgis readOnly="0" version="3.16.11-Hannover" minScale="100000000" simplifyLocal="1" labelsEnabled="0" simplifyDrawingTol="1" hasScaleBasedVisibilityFlag="0" styleCategories="AllStyleCategories" simplifyMaxScale="1" simplifyDrawingHints="1" simplifyAlgorithm="0" maxScale="0">
+     <flags>
+      <Identifiable>1</Identifiable>
+      <Removable>1</Removable>
+      <Searchable>1</Searchable>
+     </flags>
+     <temporal mode="0" durationUnit="min" endExpression="" accumulate="0" enabled="0" startExpression="" fixedDuration="0" endField="" startField="" durationField="">
+      <fixedRange>
+       <start/>
+       <end/>
+      </fixedRange>
+     </temporal>
+     <renderer-v2 forceraster="0" enableorderby="0" symbollevels="0" type="singleSymbol">
+      <symbols>
+       <symbol clip_to_extent="1" alpha="1" name="0" force_rhr="0" type="line">
+        <layer class="SimpleLine" pass="0" locked="0" enabled="1">
+         <prop k="align_dash_pattern" v="0"/>
+         <prop k="capstyle" v="round"/>
+         <prop k="customdash" v="0.66;2"/>
+         <prop k="customdash_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+         <prop k="customdash_unit" v="MM"/>
+         <prop k="dash_pattern_offset" v="0"/>
+         <prop k="dash_pattern_offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+         <prop k="dash_pattern_offset_unit" v="MM"/>
+         <prop k="draw_inside_polygon" v="0"/>
+         <prop k="joinstyle" v="round"/>
+         <prop k="line_color" v="0,0,0,255"/>
+         <prop k="line_style" v="dash"/>
+         <prop k="line_width" v="0"/>
+         <prop k="line_width_unit" v="MM"/>
+         <prop k="offset" v="0"/>
+         <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+         <prop k="offset_unit" v="MM"/>
+         <prop k="ring_filter" v="0"/>
+         <prop k="tweak_dash_pattern_on_corners" v="0"/>
+         <prop k="use_custom_dash" v="0"/>
+         <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+         <data_defined_properties>
+          <Option type="Map">
+           <Option name="name" value="" type="QString"/>
+           <Option name="properties"/>
+           <Option name="type" value="collection" type="QString"/>
+          </Option>
+         </data_defined_properties>
+        </layer>
+       </symbol>
+      </symbols>
+      <rotation/>
+      <sizescale/>
+     </renderer-v2>
+     <customproperties>
+      <property key="embeddedWidgets/count" value="0"/>
+      <property key="variableNames"/>
+      <property key="variableValues"/>
+     </customproperties>
+     <blendMode>0</blendMode>
+     <featureBlendMode>0</featureBlendMode>
+     <layerOpacity>1</layerOpacity>
+     <SingleCategoryDiagramRenderer diagramType="Histogram" attributeLegend="1">
+      <DiagramCategory direction="0" maxScaleDenominator="1e+08" sizeScale="3x:0,0,0,0,0,0" width="15" minimumSize="0" height="15" scaleDependency="Area" backgroundColor="#ffffff" sizeType="MM" rotationOffset="270" enabled="0" opacity="1" backgroundAlpha="255" lineSizeType="MM" diagramOrientation="Up" penAlpha="255" penWidth="0" penColor="#000000" minScaleDenominator="0" showAxis="1" spacingUnit="MM" barWidth="5" spacing="5" lineSizeScale="3x:0,0,0,0,0,0" scaleBasedVisibility="0" labelPlacementMethod="XHeight" spacingUnitScale="3x:0,0,0,0,0,0">
+       <fontProperties description="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0" style=""/>
+       <attribute color="#000000" field="" label=""/>
+       <axisSymbol>
+        <symbol clip_to_extent="1" alpha="1" name="" force_rhr="0" type="line">
+         <layer class="SimpleLine" pass="0" locked="0" enabled="1">
+          <prop k="align_dash_pattern" v="0"/>
+          <prop k="capstyle" v="square"/>
+          <prop k="customdash" v="5;2"/>
+          <prop k="customdash_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+          <prop k="customdash_unit" v="MM"/>
+          <prop k="dash_pattern_offset" v="0"/>
+          <prop k="dash_pattern_offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+          <prop k="dash_pattern_offset_unit" v="MM"/>
+          <prop k="draw_inside_polygon" v="0"/>
+          <prop k="joinstyle" v="bevel"/>
+          <prop k="line_color" v="35,35,35,255"/>
+          <prop k="line_style" v="solid"/>
+          <prop k="line_width" v="0.26"/>
+          <prop k="line_width_unit" v="MM"/>
+          <prop k="offset" v="0"/>
+          <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+          <prop k="offset_unit" v="MM"/>
+          <prop k="ring_filter" v="0"/>
+          <prop k="tweak_dash_pattern_on_corners" v="0"/>
+          <prop k="use_custom_dash" v="0"/>
+          <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+          <data_defined_properties>
+           <Option type="Map">
+            <Option name="name" value="" type="QString"/>
+            <Option name="properties"/>
+            <Option name="type" value="collection" type="QString"/>
+           </Option>
+          </data_defined_properties>
+         </layer>
+        </symbol>
+       </axisSymbol>
+      </DiagramCategory>
+     </SingleCategoryDiagramRenderer>
+     <DiagramLayerSettings placement="2" dist="0" zIndex="0" linePlacementFlags="18" showAll="1" priority="0" obstacle="0">
+      <properties>
+       <Option type="Map">
+        <Option name="name" value="" type="QString"/>
+        <Option name="properties"/>
+        <Option name="type" value="collection" type="QString"/>
+       </Option>
+      </properties>
+     </DiagramLayerSettings>
+     <geometryOptions geometryPrecision="0" removeDuplicateNodes="0">
+      <activeChecks/>
+      <checkConfiguration/>
+     </geometryOptions>
+     <legend type="default-vector"/>
+     <referencedLayers/>
+     <fieldConfiguration>
+      <field configurationFlags="None" name="Primary">
+       <editWidget type="TextEdit">
+        <config>
+         <Option/>
+        </config>
+       </editWidget>
+      </field>
+      <field configurationFlags="None" name="Secondary">
+       <editWidget type="TextEdit">
+        <config>
+         <Option/>
+        </config>
+       </editWidget>
+      </field>
+      <field configurationFlags="None" name="ID3">
+       <editWidget type="TextEdit">
+        <config>
+         <Option/>
+        </config>
+       </editWidget>
+      </field>
+      <field configurationFlags="None" name="ID4">
+       <editWidget type="TextEdit">
+        <config>
+         <Option/>
+        </config>
+       </editWidget>
+      </field>
+      <field configurationFlags="None" name="ZLEVEL">
+       <editWidget type="TextEdit">
+        <config>
+         <Option/>
+        </config>
+       </editWidget>
+      </field>
+     </fieldConfiguration>
+     <aliases>
+      <alias field="Primary" name="" index="0"/>
+      <alias field="Secondary" name="" index="1"/>
+      <alias field="ID3" name="" index="2"/>
+      <alias field="ID4" name="" index="3"/>
+      <alias field="ZLEVEL" name="" index="4"/>
+     </aliases>
+     <defaults>
+      <default expression="" field="Primary" applyOnUpdate="0"/>
+      <default expression="" field="Secondary" applyOnUpdate="0"/>
+      <default expression="" field="ID3" applyOnUpdate="0"/>
+      <default expression="" field="ID4" applyOnUpdate="0"/>
+      <default expression="" field="ZLEVEL" applyOnUpdate="0"/>
+     </defaults>
+     <constraints>
+      <constraint notnull_strength="0" exp_strength="0" field="Primary" unique_strength="0" constraints="0"/>
+      <constraint notnull_strength="0" exp_strength="0" field="Secondary" unique_strength="0" constraints="0"/>
+      <constraint notnull_strength="0" exp_strength="0" field="ID3" unique_strength="0" constraints="0"/>
+      <constraint notnull_strength="0" exp_strength="0" field="ID4" unique_strength="0" constraints="0"/>
+      <constraint notnull_strength="0" exp_strength="0" field="ZLEVEL" unique_strength="0" constraints="0"/>
+     </constraints>
+     <constraintExpressions>
+      <constraint field="Primary" exp="" desc=""/>
+      <constraint field="Secondary" exp="" desc=""/>
+      <constraint field="ID3" exp="" desc=""/>
+      <constraint field="ID4" exp="" desc=""/>
+      <constraint field="ZLEVEL" exp="" desc=""/>
+     </constraintExpressions>
+     <expressionfields/>
+     <attributeactions>
+      <defaultAction key="Canvas" value="{00000000-0000-0000-0000-000000000000}"/>
+     </attributeactions>
+     <attributetableconfig sortExpression="" sortOrder="0" actionWidgetStyle="dropDown">
+      <columns>
+       <column name="Primary" width="-1" hidden="0" type="field"/>
+       <column name="Secondary" width="-1" hidden="0" type="field"/>
+       <column name="ID3" width="-1" hidden="0" type="field"/>
+       <column name="ID4" width="-1" hidden="0" type="field"/>
+       <column name="ZLEVEL" width="-1" hidden="0" type="field"/>
+       <column width="-1" hidden="1" type="actions"/>
+      </columns>
+     </attributetableconfig>
+     <conditionalstyles>
+      <rowstyles/>
+      <fieldstyles/>
+     </conditionalstyles>
+     <storedexpressions/>
+     <editform tolerant="1"/>
+     <editforminit/>
+     <editforminitcodesource>0</editforminitcodesource>
+     <editforminitfilepath/>
+     <editforminitcode><![CDATA[# -*- coding: utf-8 -*-
+"""
+QGIS forms can have a Python function that is called when the form is
+opened.
+
+Use this function to add extra logic to your forms.
+
+Enter the name of the function in the "Python Init function"
+field.
+An example follows:
+"""
+from qgis.PyQt.QtWidgets import QWidget
+
+def my_form_open(dialog, layer, feature):
+	geom = feature.geometry()
+	control = dialog.findChild(QWidget, "MyLineEdit")
+]]></editforminitcode>
+     <featformsuppress>0</featformsuppress>
+     <editorlayout>generatedlayout</editorlayout>
+     <editable>
+      <field editable="1" name="ID3"/>
+      <field editable="1" name="ID4"/>
+      <field editable="1" name="Primary"/>
+      <field editable="1" name="Secondary"/>
+      <field editable="1" name="ZLEVEL"/>
+     </editable>
+     <labelOnTop>
+      <field labelOnTop="0" name="ID3"/>
+      <field labelOnTop="0" name="ID4"/>
+      <field labelOnTop="0" name="Primary"/>
+      <field labelOnTop="0" name="Secondary"/>
+      <field labelOnTop="0" name="ZLEVEL"/>
+     </labelOnTop>
+     <dataDefinedFieldProperties/>
+     <widgets/>
+     <previewExpression>"ID3"</previewExpression>
+     <mapTip/>
+     <layerGeometryType>1</layerGeometryType>
+    </qgis>
+   </LayerStyle>
+   <LayerStyle layerid="Portugal_NUTIII_d11037c7_8723_41a4_9678_d965d90de61a" source="" provider="" name="">
+    <qgis readOnly="0" version="3.16.11-Hannover" minScale="100000000" simplifyLocal="1" labelsEnabled="0" simplifyDrawingTol="1" hasScaleBasedVisibilityFlag="0" styleCategories="AllStyleCategories" simplifyMaxScale="1" simplifyDrawingHints="1" simplifyAlgorithm="0" maxScale="0">
+     <flags>
+      <Identifiable>1</Identifiable>
+      <Removable>1</Removable>
+      <Searchable>1</Searchable>
+     </flags>
+     <temporal mode="0" durationUnit="min" endExpression="" accumulate="0" enabled="0" startExpression="" fixedDuration="0" endField="" startField="" durationField="">
+      <fixedRange>
+       <start/>
+       <end/>
+      </fixedRange>
+     </temporal>
+     <renderer-v2 forceraster="0" enableorderby="0" symbollevels="0" type="singleSymbol">
+      <symbols>
+       <symbol clip_to_extent="1" alpha="1" name="0" force_rhr="0" type="fill">
+        <layer class="SimpleFill" pass="0" locked="0" enabled="1">
+         <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+         <prop k="color" v="213,202,203,255"/>
+         <prop k="joinstyle" v="bevel"/>
+         <prop k="offset" v="0,0"/>
+         <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+         <prop k="offset_unit" v="MM"/>
+         <prop k="outline_color" v="174,174,174,255"/>
+         <prop k="outline_style" v="solid"/>
+         <prop k="outline_width" v="0"/>
+         <prop k="outline_width_unit" v="MM"/>
+         <prop k="style" v="solid"/>
+         <data_defined_properties>
+          <Option type="Map">
+           <Option name="name" value="" type="QString"/>
+           <Option name="properties"/>
+           <Option name="type" value="collection" type="QString"/>
+          </Option>
+         </data_defined_properties>
+        </layer>
+       </symbol>
+      </symbols>
+      <rotation/>
+      <sizescale/>
+     </renderer-v2>
+     <customproperties>
+      <property key="embeddedWidgets/count" value="0"/>
+      <property key="variableNames"/>
+      <property key="variableValues"/>
+     </customproperties>
+     <blendMode>0</blendMode>
+     <featureBlendMode>0</featureBlendMode>
+     <layerOpacity>1</layerOpacity>
+     <SingleCategoryDiagramRenderer diagramType="Histogram" attributeLegend="1">
+      <DiagramCategory direction="0" maxScaleDenominator="1e+08" sizeScale="3x:0,0,0,0,0,0" width="15" minimumSize="0" height="15" scaleDependency="Area" backgroundColor="#ffffff" sizeType="MM" rotationOffset="270" enabled="0" opacity="1" backgroundAlpha="255" lineSizeType="MM" diagramOrientation="Up" penAlpha="255" penWidth="0" penColor="#000000" minScaleDenominator="0" showAxis="1" spacingUnit="MM" barWidth="5" spacing="5" lineSizeScale="3x:0,0,0,0,0,0" scaleBasedVisibility="0" labelPlacementMethod="XHeight" spacingUnitScale="3x:0,0,0,0,0,0">
+       <fontProperties description="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0" style=""/>
+       <attribute color="#000000" field="" label=""/>
+       <axisSymbol>
+        <symbol clip_to_extent="1" alpha="1" name="" force_rhr="0" type="line">
+         <layer class="SimpleLine" pass="0" locked="0" enabled="1">
+          <prop k="align_dash_pattern" v="0"/>
+          <prop k="capstyle" v="square"/>
+          <prop k="customdash" v="5;2"/>
+          <prop k="customdash_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+          <prop k="customdash_unit" v="MM"/>
+          <prop k="dash_pattern_offset" v="0"/>
+          <prop k="dash_pattern_offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+          <prop k="dash_pattern_offset_unit" v="MM"/>
+          <prop k="draw_inside_polygon" v="0"/>
+          <prop k="joinstyle" v="bevel"/>
+          <prop k="line_color" v="35,35,35,255"/>
+          <prop k="line_style" v="solid"/>
+          <prop k="line_width" v="0.26"/>
+          <prop k="line_width_unit" v="MM"/>
+          <prop k="offset" v="0"/>
+          <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+          <prop k="offset_unit" v="MM"/>
+          <prop k="ring_filter" v="0"/>
+          <prop k="tweak_dash_pattern_on_corners" v="0"/>
+          <prop k="use_custom_dash" v="0"/>
+          <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+          <data_defined_properties>
+           <Option type="Map">
+            <Option name="name" value="" type="QString"/>
+            <Option name="properties"/>
+            <Option name="type" value="collection" type="QString"/>
+           </Option>
+          </data_defined_properties>
+         </layer>
+        </symbol>
+       </axisSymbol>
+      </DiagramCategory>
+     </SingleCategoryDiagramRenderer>
+     <DiagramLayerSettings placement="1" dist="0" zIndex="0" linePlacementFlags="18" showAll="1" priority="0" obstacle="0">
+      <properties>
+       <Option type="Map">
+        <Option name="name" value="" type="QString"/>
+        <Option name="properties"/>
+        <Option name="type" value="collection" type="QString"/>
+       </Option>
+      </properties>
+     </DiagramLayerSettings>
+     <geometryOptions geometryPrecision="0" removeDuplicateNodes="0">
+      <activeChecks/>
+      <checkConfiguration type="Map">
+       <Option name="QgsGeometryGapCheck" type="Map">
+        <Option name="allowedGapsBuffer" value="0" type="double"/>
+        <Option name="allowedGapsEnabled" value="false" type="bool"/>
+        <Option name="allowedGapsLayer" value="" type="QString"/>
+       </Option>
+      </checkConfiguration>
+     </geometryOptions>
+     <legend type="default-vector"/>
+     <referencedLayers/>
+     <fieldConfiguration>
+      <field configurationFlags="None" name="NUTS_ID">
+       <editWidget type="TextEdit">
+        <config>
+         <Option/>
+        </config>
+       </editWidget>
+      </field>
+      <field configurationFlags="None" name="LEVL_CODE">
+       <editWidget type="Range">
+        <config>
+         <Option/>
+        </config>
+       </editWidget>
+      </field>
+      <field configurationFlags="None" name="CNTR_CODE">
+       <editWidget type="TextEdit">
+        <config>
+         <Option/>
+        </config>
+       </editWidget>
+      </field>
+      <field configurationFlags="None" name="NUTS_NAME">
+       <editWidget type="TextEdit">
+        <config>
+         <Option/>
+        </config>
+       </editWidget>
+      </field>
+      <field configurationFlags="None" name="FID">
+       <editWidget type="TextEdit">
+        <config>
+         <Option/>
+        </config>
+       </editWidget>
+      </field>
+     </fieldConfiguration>
+     <aliases>
+      <alias field="NUTS_ID" name="" index="0"/>
+      <alias field="LEVL_CODE" name="" index="1"/>
+      <alias field="CNTR_CODE" name="" index="2"/>
+      <alias field="NUTS_NAME" name="" index="3"/>
+      <alias field="FID" name="" index="4"/>
+     </aliases>
+     <defaults>
+      <default expression="" field="NUTS_ID" applyOnUpdate="0"/>
+      <default expression="" field="LEVL_CODE" applyOnUpdate="0"/>
+      <default expression="" field="CNTR_CODE" applyOnUpdate="0"/>
+      <default expression="" field="NUTS_NAME" applyOnUpdate="0"/>
+      <default expression="" field="FID" applyOnUpdate="0"/>
+     </defaults>
+     <constraints>
+      <constraint notnull_strength="0" exp_strength="0" field="NUTS_ID" unique_strength="0" constraints="0"/>
+      <constraint notnull_strength="0" exp_strength="0" field="LEVL_CODE" unique_strength="0" constraints="0"/>
+      <constraint notnull_strength="0" exp_strength="0" field="CNTR_CODE" unique_strength="0" constraints="0"/>
+      <constraint notnull_strength="0" exp_strength="0" field="NUTS_NAME" unique_strength="0" constraints="0"/>
+      <constraint notnull_strength="0" exp_strength="0" field="FID" unique_strength="0" constraints="0"/>
+     </constraints>
+     <constraintExpressions>
+      <constraint field="NUTS_ID" exp="" desc=""/>
+      <constraint field="LEVL_CODE" exp="" desc=""/>
+      <constraint field="CNTR_CODE" exp="" desc=""/>
+      <constraint field="NUTS_NAME" exp="" desc=""/>
+      <constraint field="FID" exp="" desc=""/>
+     </constraintExpressions>
+     <expressionfields/>
+     <attributeactions>
+      <defaultAction key="Canvas" value="{00000000-0000-0000-0000-000000000000}"/>
+     </attributeactions>
+     <attributetableconfig sortExpression="" sortOrder="0" actionWidgetStyle="dropDown">
+      <columns>
+       <column name="NUTS_ID" width="-1" hidden="0" type="field"/>
+       <column name="LEVL_CODE" width="-1" hidden="0" type="field"/>
+       <column name="CNTR_CODE" width="-1" hidden="0" type="field"/>
+       <column name="NUTS_NAME" width="-1" hidden="0" type="field"/>
+       <column name="FID" width="-1" hidden="0" type="field"/>
+       <column width="-1" hidden="1" type="actions"/>
+      </columns>
+     </attributetableconfig>
+     <conditionalstyles>
+      <rowstyles/>
+      <fieldstyles/>
+     </conditionalstyles>
+     <storedexpressions/>
+     <editform tolerant="1"/>
+     <editforminit/>
+     <editforminitcodesource>0</editforminitcodesource>
+     <editforminitfilepath/>
+     <editforminitcode><![CDATA[# -*- coding: utf-8 -*-
+"""
+QGIS forms can have a Python function that is called when the form is
+opened.
+
+Use this function to add extra logic to your forms.
+
+Enter the name of the function in the "Python Init function"
+field.
+An example follows:
+"""
+from qgis.PyQt.QtWidgets import QWidget
+
+def my_form_open(dialog, layer, feature):
+	geom = feature.geometry()
+	control = dialog.findChild(QWidget, "MyLineEdit")
+]]></editforminitcode>
+     <featformsuppress>0</featformsuppress>
+     <editorlayout>generatedlayout</editorlayout>
+     <editable>
+      <field editable="1" name="CNTR_CODE"/>
+      <field editable="1" name="FID"/>
+      <field editable="1" name="LEVL_CODE"/>
+      <field editable="1" name="NUTS_ID"/>
+      <field editable="1" name="NUTS_NAME"/>
+     </editable>
+     <labelOnTop>
+      <field labelOnTop="0" name="CNTR_CODE"/>
+      <field labelOnTop="0" name="FID"/>
+      <field labelOnTop="0" name="LEVL_CODE"/>
+      <field labelOnTop="0" name="NUTS_ID"/>
+      <field labelOnTop="0" name="NUTS_NAME"/>
+     </labelOnTop>
+     <dataDefinedFieldProperties/>
+     <widgets/>
+     <previewExpression>"NUTS_NAME"</previewExpression>
+     <mapTip/>
+     <layerGeometryType>2</layerGeometryType>
+    </qgis>
+   </LayerStyle>
+  </LayerStyles>
+  <ComposerMapGrid rotatedAnnotationsMarginToCorner="0" rightAnnotationDirection="0" minimumIntervalWidth="46" crossLength="3" show="1" rotatedAnnotationsEnabled="0" offsetY="-1" rightAnnotationPosition="1" intervalX="16" bottomAnnotationPosition="0" rotatedTicksMarginToCorner="0" gridFrameSideFlags="15" gridFrameWidth="2" topAnnotationDirection="0" rotatedTicksLengthMode="0" name="Grid 1" topAnnotationPosition="0" unit="3" frameFillColor1="255,255,255,255" rotatedTicksMinimumAngle="0" leftAnnotationPosition="0" bottomAnnotationDisplay="0" topFrameDivisions="0" intervalY="14" leftAnnotationDirection="5" rotatedTicksEnabled="0" annotationPrecision="0" rotatedAnnotationsMinimumAngle="0" annotationFormat="3" leftAnnotationDisplay="0" gridFrameStyle="6" topAnnotationDisplay="3" gridFrameMargin="0" offsetX="7" blendMode="0" bottomFrameDivisions="0" gridStyle="3" gridFramePenColor="0,0,0,255" rightAnnotationDisplay="3" leftFrameDivisions="0" frameFillColor2="0,0,0,255" maximumIntervalWidth="96" bottomAnnotationDirection="0" frameAnnotationDistance="1" annotationExpression="" rightFrameDivisions="0" gridFramePenThickness="0" rotatedAnnotationsLengthMode="0" uuid="{1913fc73-22e5-4d48-b255-555f38522803}" showAnnotation="1" position="3">
+   <lineStyle>
+    <symbol clip_to_extent="1" alpha="1" name="" force_rhr="0" type="line">
+     <layer class="SimpleLine" locked="0" pass="0" enabled="1">
+      <prop k="align_dash_pattern" v="0"/>
+      <prop k="capstyle" v="square"/>
+      <prop k="customdash" v="5;2"/>
+      <prop k="customdash_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+      <prop k="customdash_unit" v="MM"/>
+      <prop k="dash_pattern_offset" v="0"/>
+      <prop k="dash_pattern_offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+      <prop k="dash_pattern_offset_unit" v="MM"/>
+      <prop k="draw_inside_polygon" v="0"/>
+      <prop k="joinstyle" v="bevel"/>
+      <prop k="line_color" v="35,35,35,255"/>
+      <prop k="line_style" v="dash"/>
+      <prop k="line_width" v="0.2"/>
+      <prop k="line_width_unit" v="MM"/>
+      <prop k="offset" v="0"/>
+      <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+      <prop k="offset_unit" v="MM"/>
+      <prop k="ring_filter" v="0"/>
+      <prop k="tweak_dash_pattern_on_corners" v="0"/>
+      <prop k="use_custom_dash" v="0"/>
+      <prop k="width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+      <data_defined_properties>
+       <Option type="Map">
+        <Option name="name" value="" type="QString"/>
+        <Option name="properties"/>
+        <Option name="type" value="collection" type="QString"/>
+       </Option>
+      </data_defined_properties>
+     </layer>
+    </symbol>
+   </lineStyle>
+   <markerStyle>
+    <symbol clip_to_extent="1" alpha="1" name="" force_rhr="0" type="marker">
+     <layer class="SimpleMarker" locked="0" pass="0" enabled="1">
+      <prop k="angle" v="0"/>
+      <prop k="color" v="0,0,0,255"/>
+      <prop k="horizontal_anchor_point" v="1"/>
+      <prop k="joinstyle" v="bevel"/>
+      <prop k="name" v="circle"/>
+      <prop k="offset" v="0,0"/>
+      <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+      <prop k="offset_unit" v="MM"/>
+      <prop k="outline_color" v="35,35,35,255"/>
+      <prop k="outline_style" v="solid"/>
+      <prop k="outline_width" v="0"/>
+      <prop k="outline_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+      <prop k="outline_width_unit" v="MM"/>
+      <prop k="scale_method" v="diameter"/>
+      <prop k="size" v="2"/>
+      <prop k="size_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+      <prop k="size_unit" v="MM"/>
+      <prop k="vertical_anchor_point" v="1"/>
+      <data_defined_properties>
+       <Option type="Map">
+        <Option name="name" value="" type="QString"/>
+        <Option name="properties"/>
+        <Option name="type" value="collection" type="QString"/>
+       </Option>
+      </data_defined_properties>
+     </layer>
+    </symbol>
+   </markerStyle>
+   <text-style multilineHeight="1" textColor="0,0,0,255" fontWordSpacing="0" fontLetterSpacing="0" textOpacity="1" fontSizeUnit="Point" fontStrikeout="0" fontSizeMapUnitScale="3x:0,0,0,0,0,0" fontWeight="50" namedStyle="" textOrientation="horizontal" blendMode="0" fontItalic="0" fontSize="10" fontUnderline="0" fontFamily="MS Shell Dlg 2" fontKerning="1" allowHtml="0" previewBkgrdColor="255,255,255,255" capitalization="0">
+    <text-buffer bufferDraw="0" bufferColor="255,255,255,255" bufferJoinStyle="128" bufferSizeMapUnitScale="3x:0,0,0,0,0,0" bufferSize="1" bufferNoFill="1" bufferBlendMode="0" bufferSizeUnits="MM" bufferOpacity="1"/>
+    <text-mask maskSizeUnits="MM" maskJoinStyle="128" maskOpacity="1" maskSize="1.5" maskedSymbolLayers="" maskSizeMapUnitScale="3x:0,0,0,0,0,0" maskType="0" maskEnabled="0"/>
+    <background shapeOffsetUnit="MM" shapeBorderWidthMapUnitScale="3x:0,0,0,0,0,0" shapeBlendMode="0" shapeFillColor="255,255,255,255" shapeSizeMapUnitScale="3x:0,0,0,0,0,0" shapeRadiiX="0" shapeSVGFile="" shapeSizeUnit="MM" shapeDraw="0" shapeOffsetX="0" shapeRadiiUnit="MM" shapeBorderWidth="0" shapeRadiiY="0" shapeType="0" shapeBorderColor="128,128,128,255" shapeRotationType="0" shapeSizeX="0" shapeRadiiMapUnitScale="3x:0,0,0,0,0,0" shapeRotation="0" shapeOffsetY="0" shapeOffsetMapUnitScale="3x:0,0,0,0,0,0" shapeBorderWidthUnit="MM" shapeOpacity="1" shapeSizeType="0" shapeSizeY="0" shapeJoinStyle="64"/>
+    <shadow shadowOffsetMapUnitScale="3x:0,0,0,0,0,0" shadowUnder="0" shadowOpacity="0.7" shadowBlendMode="6" shadowDraw="0" shadowOffsetUnit="MM" shadowRadius="1.5" shadowColor="0,0,0,255" shadowOffsetAngle="135" shadowRadiusUnit="MM" shadowRadiusMapUnitScale="3x:0,0,0,0,0,0" shadowRadiusAlphaOnly="0" shadowOffsetDist="1" shadowScale="100" shadowOffsetGlobal="1"/>
+    <dd_properties>
+     <Option type="Map">
+      <Option name="name" value="" type="QString"/>
+      <Option name="properties"/>
+      <Option name="type" value="collection" type="QString"/>
+     </Option>
+    </dd_properties>
+   </text-style>
+   <LayoutObject>
+    <dataDefinedProperties>
+     <Option type="Map">
+      <Option name="name" value="" type="QString"/>
+      <Option name="properties"/>
+      <Option name="type" value="collection" type="QString"/>
+     </Option>
+    </dataDefinedProperties>
+    <customproperties/>
+   </LayoutObject>
+  </ComposerMapGrid>
+  <AtlasMap atlasDriven="0" margin="0.10000000000000001" scalingMode="2"/>
+  <labelBlockingItems/>
+  <atlasClippingSettings clippingType="1" forceLabelsInside="0" enabled="0" restrictLayers="0">
+   <layersToClip/>
+  </atlasClippingSettings>
+  <itemClippingSettings clipSource="" clippingType="1" forceLabelsInside="0" enabled="0"/>
+ </LayoutItem>
+ <customproperties>
+  <property key="atlasRasterFormat" value="png"/>
+  <property key="imageAntialias" value="true"/>
+  <property key="imageCropMarginBottom" value="0"/>
+  <property key="imageCropMarginLeft" value="0"/>
+  <property key="imageCropMarginRight" value="0"/>
+  <property key="imageCropMarginTop" value="0"/>
+  <property key="imageCropToContents" value="false"/>
+  <property key="singleFile" value="true"/>
+ </customproperties>
+ <Atlas pageNameExpression="" sortFeatures="0" coverageLayerName="Sea_area" coverageLayerProvider="ogr" hideCoverage="0" enabled="0" filenamePattern="'output_'||@atlas_featurenumber" coverageLayerSource="C:/Users/pa-ak/Documents/UAlg/CLIMA-PESCA/maps/vector_PtEur/Sea_area.shp" coverageLayer="Sea_area_16bcf63c_f5b3_45ad_a323_34ca866ee510" filterFeatures="0"/>
+</Layout>
